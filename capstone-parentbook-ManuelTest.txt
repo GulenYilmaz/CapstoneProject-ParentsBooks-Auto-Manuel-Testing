@@ -1,0 +1,20 @@
+
+User Story 1-  This test will do go through the Capstone parent books app in the 'https://capstone-project-booklist.herokuapp.com/' and verify that each input fields are correctly work for adding books.
+
+
+Login information for User Story 1:N/A
+
+
+1. Navigate to 'https://capstone-project-booklist.herokuapp.com/'
+   *Verify that you are on the homepage
+2. Click on the book title input field.
+   *write the book name as "The Connected Parent: Real-Life Strategies for Building Trust and Attachment "
+3. Click on the book picture URL input field.
+   *write the book URL as "https://images-na.ssl-images-amazon.com/images/I/410sxwWFEUL._SX322_BO1,204,203,200_.jpg"
+4. Click on the book rate radio button.
+   *User can choose their rate from 1 to 5 stars.
+5. Click on the add book button.
+   *User can add the book in the list on the page.
+
+6.Verify the book name and book picture on the buttom of the page.
+
